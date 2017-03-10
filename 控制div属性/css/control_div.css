@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    width: 250px;
+    height: 250px;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+input{
+    float: left;
+    margin-left: 10px;
+}
+.box{
+    width: 100px;
+    height: 100px;
+    float: left;
+    margin:10px 0 0 50px;
+    background: #000000;
+}
