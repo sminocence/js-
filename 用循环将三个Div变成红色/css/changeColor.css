@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+button{
+    display: block;
+}
+.div{
+    width: 100px;
+    height: 100px;  
+    margin: 20px 10px 0 0;
+    float: left;
+    background: #000000;
+}
